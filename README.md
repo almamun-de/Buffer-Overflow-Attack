@@ -89,4 +89,11 @@ This project demonstrates a buffer overflow attack on a time service running on 
     CTF-FdLSuJqpZEhVPW75vHyg3qxXu17DFFoQyqw+Xh6O
     ```
 
+## Conclusion
+This exercise successfully demonstrated a buffer overflow exploit in a controlled environment. By carefully analyzing the vulnerable service, writing custom shellcode, and debugging the service, it was possible to gain unauthorized access to the server and retrieve the secret file.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+This project was completed as part of a cybersecurity exercise in an educational setting.
